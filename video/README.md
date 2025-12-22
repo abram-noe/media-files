@@ -27,5 +27,5 @@ Videos can be embedded directly in HTML using GitHub raw URLs.
 
 ```html
 <video autoplay muted loop playsinline>
-  <source src="https://raw.githubusercontent.com/USERNAME/media/main/video/backgrounds/hero.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/motswadisiabramn/media/main/video/backgrounds/hero.mp4" type="video/mp4">
 </video>
