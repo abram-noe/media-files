@@ -24,6 +24,6 @@ Text-based documents, notes, or supporting files.
 Documents can be linked directly from websites or applications.
 
 ```html
-<a href="https://raw.githubusercontent.com/USERNAME/media/main/documents/pdf/project-guide.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/motswadisiabramn-stack/media/main/documents/pdf/project-guide.pdf" target="_blank">
   Download Project Guide
 </a>
